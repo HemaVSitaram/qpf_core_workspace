@@ -1,0 +1,3 @@
+[submodule "qpf_core"]
+	path = qpf_core
+	url = https://github.com/HemaVSitaram/qpf_core.git
